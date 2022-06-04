@@ -1,0 +1,61 @@
+.img {
+  height: 125vh;
+  padding-top:45px;
+  background-image: linear-gradient(to top, #000000, #020d1f);
+}
+.img img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top:45px;
+}
+
+.img2{
+  width:720px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:-92px;
+}
+.img h1{
+ text-align: center;
+  color:#C1DCE1;
+  font-size:25px;
+  padding-top:17px;
+}
+.icons{
+  color:#2997FF;
+  text-align: center;
+  padding:5px;
+  font-size:25px;
+  
+}
+.icons span{
+  margin-left:12px;
+}
+.icons div i{
+ margin-left:15px;
+ padding-top:2px;
+ padding-bottom:42px;
+}
+.iphone{
+  background:#FBFBFD;
+  padding-bottom:25px;
+  text-align: center;
+  position: relative;
+
+  
+}
+.iphone img{
+  margin-top:-10em;
+}
+.learn{
+  color:#2997FF;
+}
+.textmanaged{
+  position: relative;
+}
+.textmanaged h1{
+  font-size:5em;
+  color:#111;
+}

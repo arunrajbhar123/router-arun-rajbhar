@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar img {
+  width: 17px;
+}
+.navbar {
+  background: #1e1e1f;
+  position: fixed;
+  width: 100%;
+  z-index:5;
+}
+.navbar ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+}
+
+.navbar li {
+  list-style-type: none;
+  padding-left: 45px;
+  cursor: pointer;
+}
+.Link {
+  text-decoration: none;
+  color: rgb(195, 190, 190);
+  transition: all 0.2s;
+}
+
+.Link:hover{
+  color: #fff;
+}

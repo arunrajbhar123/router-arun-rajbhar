@@ -1,0 +1,90 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490",
+      "name": "Mac"
+    },
+    {
+      "id": 2,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109_GEO_US?wid=200&hei=130&fmt=png-alpha&.v=1630706116000",
+      "name": "iPhone"
+    },
+    {
+      "id": 3,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000",
+      "name": "iPad"
+    },
+    {
+      "id": 4,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645052537409",
+      "name": "Apply Watch"
+    },
+    {
+      "id": 5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000",
+      "name": "AirPods"
+    },
+    {
+      "id": 6,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783380000",
+      "name": "AirTag"
+    },
+    {
+      "id": 7,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000",
+      "name": "Apple TV"
+    },
+    {
+      "id": 8,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000",
+      "name": "Apple TV"
+    }
+  ],
+  "box": [
+    {
+      "id": 1,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-applewatchbands-202205?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1651697078547"
+    },
+    {
+      "id": 2,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    },
+    {
+      "id": 3,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }, {
+      "id": 4,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }, {
+      "id": 5,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }, {
+      "id": 6,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }, {
+      "id": 7,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }, {
+      "id": 8,
+      "name": "Proud. All year long.",
+      "span": "Shop the latest band styles and colors.",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+    }
+  ]
+}
+
