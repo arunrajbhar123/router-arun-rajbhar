@@ -39,6 +39,16 @@
       "id": 8,
       "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000",
       "name": "Apple TV"
+    },
+    {
+      "id": 9,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000",
+      "name": "Apple TV"
+    },
+    {
+      "id": 10,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000",
+      "name": "Apple TV"
     }
   ],
   "box": [
@@ -49,6 +59,7 @@
       "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-applewatchbands-202205?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1651697078547"
     },
     {
+      "color":"#fff",
       "id": 2,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
@@ -58,32 +69,32 @@
       "id": 3,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-13-pro-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645052290504"
     }, {
       "id": 4,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-mac-studio-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645043848581"
     }, {
       "id": 5,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-studio-display-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645043848762"
     }, {
       "id": 6,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-se-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645052592978"
     }, {
       "id": 7,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-iphone-13-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645052290452"
     }, {
       "id": 8,
       "name": "Proud. All year long.",
       "span": "Shop the latest band styles and colors.",
-      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-ipad-air-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645636337374"
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-40-watch-bands-202203?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1645052880599"
     }
   ]
 }

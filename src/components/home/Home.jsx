@@ -18,10 +18,10 @@ const Home = () => {
         Add to your calendar
         <span className="material-icons">arrow_circle_down</span>
         <div>
-          <i class="fa-brands fa-facebook"></i>
-          <i class="fa-brands fa-twitter"></i>
-          <i class="fa-solid fa-envelope"></i>
-          <i class="fa-solid fa-link"></i>
+          <i className="fa-brands fa-facebook"></i>
+          <i className="fa-brands fa-twitter"></i>
+          <i className="fa-solid fa-envelope"></i>
+          <i className="fa-solid fa-link"></i>
         </div>
       </div>
       <div className={styles.iphone}>
@@ -33,6 +33,7 @@ const Home = () => {
         </div>
         <img src="asset/iphone.jpg" alt="" />
       </div>
+  
     </div>
   );
 };

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import styles from "./styles.module.css";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import { Box, Image } from "@chakra-ui/react";
 
 const Store = () => {
   const [data, setData] = useState([]);
@@ -21,26 +22,29 @@ const Store = () => {
     <div className={styles.main}>
       <h1>Store. The best way to buy the products you love.</h1>
       <div className={styles.flexing}>
-        {data.map(({ id, img, name }) => (
+        {data.map(({ id, img, name ,color}) => (
           <div key={id} className={styles.box}>
-            <img src={img} alt="" />
-            <Link to={`${name}`} className={styles.Link}>
-              {name}
-            </Link>
+            <Box boxSize="sm" height="200px">
+              <Image src={img} alt=" " />
+              <Link to={`${name}`}  className={styles.Link}>
+                {name}
+              </Link>
+            </Box>
           </div>
         ))}
       </div>
-      <h1>The latest. Take a look at what’s new, right now.</h1>
 
-      <div className={styles.flexing}>
-        {dataS.map(({ id, img, name,span }) => (
-          <div key={id} className={styles.box}>
-             <span>{span}</span><br />
-            <Link to={`${name}`} className={styles.Link}>
-              {name}
-            </Link>
-            <img src={img} alt="" />
-           
+      <div className={styles.flexing_cart}>
+        {dataS.map(({ id, img, name, span }) => (
+          <div key={id}>
+            <Box className={styles.cart}>
+              <div className={styles.cart_img}>
+                <Link to={`${name}`} className={styles.Link_ab}>
+                  {name}
+                </Link>
+                <Image src={img} alt="" />
+              </div>
+            </Box>
           </div>
         ))}
       </div>

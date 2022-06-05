@@ -1,9 +1,11 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link,useLocation,useParams } from "react-router-dom";
 import styles from "./styles.module.css";
 
 const Navbar = () => {
-  const NavbarList=["Store","Mac","iPad","iPhone","Watch","AirPods","Only on Apple","Accessories","Support"];
+  const NavbarList=["Store","iPhone","Support"];
+ const location =useLocation();
+ console.log(location);
  
   return (
     <div className={styles.navbar}>
@@ -12,9 +14,9 @@ const Navbar = () => {
         <li>
           <Link to=""><img src="asset/logo.svg" alt="logo" /></Link>
         </li>
-     {NavbarList.map((el)=>(
-       <li>
-         <Link className={styles.Link} to={`/${el.toLowerCase()}`}>{el}</Link>
+     {NavbarList.map((el,i)=>(
+       <li key={i}>
+         <Link className={styles.Link} to={`/${el.toLowerCase()}/`}>{el}</Link>
        </li>
      ))}
      <li>

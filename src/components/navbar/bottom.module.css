@@ -1,0 +1,21 @@
+.bottom {
+  margin-left: 10rem;
+  padding-bottom:2em;
+}
+.bottom_copyright {
+  display: flex;
+}
+.bottom_copyright_term {
+  display: flex;
+  justify-content: space-around;
+  margin-left:52px;
+  gap:25px;
+  
+}
+.bottom_copyright_term span{
+  border-left:2px solid rgb(231, 231, 231);
+  padding-left:12px;
+}
+.bottom_copyright_term_last{
+  margin-left:7em;
+}

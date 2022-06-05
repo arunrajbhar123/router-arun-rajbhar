@@ -1,5 +1,5 @@
 .img {
-  height: 125vh;
+ 
   padding-top:45px;
   background-image: linear-gradient(to top, #000000, #020d1f);
 }
@@ -42,12 +42,11 @@
   background:#FBFBFD;
   padding-bottom:25px;
   text-align: center;
-  position: relative;
-
   
 }
 .iphone img{
   margin-top:-10em;
+  
 }
 .learn{
   color:#2997FF;
